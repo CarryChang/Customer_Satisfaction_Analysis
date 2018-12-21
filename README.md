@@ -7,6 +7,9 @@
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/不一致.png"></div>
 
 #####  主要功能包括在线原始评论采集、主题分类、评论情感分析与结果可视化展示等四个模块，项目流程如下所示。
+
+<div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/流程.png"></div>
+
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/民宿挖掘步骤.jpg"></div>
 
 >1.   使用Selenium模拟浏览器点击翻页操作，并配合Request实现了携程网爬虫封锁和自动化的采集民宿UGC内容的功能，提取后的民宿地址和在线评论等信息如下。
