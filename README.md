@@ -27,12 +27,12 @@
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/主题.png"></div>
 
-> 6.   通过POI热力图的方式对在线民宿满意度进行展示。
+> 5.   通过POI热力图的方式对在线民宿满意度进行展示。
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/poi可视化.png"></div>
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/poi打分.png"></div>
 
-> 7.   代码结构如下
+> 6.   代码结构如下
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/总的结构.png"></div>
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/结构1.png"></div>
