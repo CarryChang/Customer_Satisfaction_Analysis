@@ -58,7 +58,7 @@ def fina_analysis_1(key_word):
         if score.startswith('0' or '1'):
             ###########增加消极情绪极性
             common = 1 - float(score)
-            score_neg_very += stand_score
+            score_neg_very += common
     key_score.write(key_word+'消极情绪总分')
     key_score.write(str(common))
     print(key_word+'评论打分分层统计完成')
