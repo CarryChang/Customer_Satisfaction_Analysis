@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.idea
+Customer_Satisfaction_Analysis/.idea
 
 # C extensions
 *.so

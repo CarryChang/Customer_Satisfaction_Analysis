@@ -4,7 +4,7 @@
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/情感分析图.png"></div>
 
 #### [视频演示demo](https://github.com/CarryChang/C-CNN-for-Chinese-Sentiment-Analysis/blob/master/video/demo.mp4)
-##### 研究基于UGC的在线民宿满意度挖掘，负责数据采集、主题抽取、情感分析等任务。开发的目的是克服用户打分和评论不一致，实时对重庆地区在线民宿的满意度进行评测，使用Python实现了在线评论采集和情感可视化分析。搭建了百度地图POI查询入口，可以进行自动化的批量查询POI信息的功能；构建了基于在线民宿语料的Word2vec主题聚类模型，利用主题中心词能找出对应的主题属性字典；以用户打分作为标注，然后通过实验贝叶斯、SVM、决策树等多种分类模型，最后选用贝叶斯模型进行情感分析，将情感分类概率分布作为情感趋势，最后通过POI热力图的方式对不同地域的民宿满意度进行展示。分析流程利用机器学习有监督标记样本进行分类，解决了因情感字典覆盖率不全造成分类精度低的问题。用户打分和评论不一致在满意度测评中影响比较大，使用自然语言处理技术能挖掘用户情感和需求，具体的打分和评论不一致现象如下。
+##### 基于UGC的在线民宿满意度挖掘，负责数据采集、主题抽取、情感分析等任务。开发的目的是克服用户打分和评论不一致，实时对重庆地区在线民宿的满意度进行评测，使用Python实现了在线评论采集和情感可视化分析。搭建了百度地图POI查询入口，可以进行自动化的批量查询POI信息的功能；构建了基于在线民宿语料的Word2vec主题聚类模型，利用主题中心词能找出对应的主题属性字典；以用户打分作为标注，然后通过实验贝叶斯、SVM、决策树等多种分类模型，最后选用贝叶斯模型进行情感分析，将情感分类概率分布作为情感趋势，最后通过POI热力图的方式对不同地域的民宿满意度进行展示。分析流程利用机器学习有监督标记样本进行分类，解决了因情感字典覆盖率不全造成分类精度低的问题。用户打分和评论不一致在满意度测评中影响比较大，使用自然语言处理技术能挖掘用户情感和需求，具体的打分和评论不一致现象如下。
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/不一致.png"></div>
 
 #####  主要功能包括在线原始评论采集、主题分类、评论情感分析与结果可视化展示等四个模块，如下所示。
@@ -37,3 +37,11 @@
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/总的结构.png"></div>
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/结构1.png"></div>
+
+
+#####  新版本特性
+> 1. 使用字符级卷积神经网络增加了推理精度,情感二分类任务性能：acc:0.9241685779816514/auc:0.9232760870449649
+> 2. 增加多进程提高多个topic下的文本匹配速度
+> 2. 简化意见挖掘流程
+
+<div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/新版本.png"></div>
