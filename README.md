@@ -41,9 +41,10 @@
 
 #####  新版本特性
 > 1. 使用字符级卷积神经网络增加了推理精度,情感二分类任务性能：acc:0.9241685779816514/auc:0.9232760870449649
-> 2. 增加多进程提高多个topic下的文本匹配速度
-> 3. 简化意见挖掘流程和优化代码结构
-> 4. jieba替换pyLTP，快速开始项目
+> 3. 考虑到语意，传统的机器学习模型不在适配（静态编码不再适用），更改为深度学习的动态语义编码
+> 4. 增加多进程提高多个topic下的文本匹配速度
+> 5. 简化意见挖掘流程和优化代码结构
+> 6. jieba替换pyLTP，快速开始项目
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/新版本.png"></div>
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/新版本结构.png"></div>

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Time: 2020/6/20 0020 0:49
 import os
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+os.environ["TF_CPP_MIN_LOG_LEVEL"] = "2"
 # 存储断句的文件夹
 sentence_cut_path = 'data/sentence_cut.txt'
 # 主题句
