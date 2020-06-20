@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 .idea
 Customer_Satisfaction_Analysis/.idea
-
+model/__pycache__
 # C extensions
 *.so
 
