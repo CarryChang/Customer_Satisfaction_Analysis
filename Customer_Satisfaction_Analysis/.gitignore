@@ -7,3 +7,5 @@
 *.iml
 out
 gen
+__pycache__/
+model/__pycache__

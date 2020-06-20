@@ -1,10 +1,10 @@
 import numpy as np
 from sa_model_predict import SA
 import matplotlib.pyplot as plt
-plt.rcParams['font.sans-serif'] = ['SimHei']  # 用来正常显示中文标签
-plt.rcParams['axes.unicode_minus'] = False  # 用来正常显示负号
-from conf import *
+from model_structure.conf import *
 import os
+plt.rcParams['font.sans-serif'] = ['SimHei']
+plt.rcParams['axes.unicode_minus'] = False
 def topic_sa_analysis():
     sa_model = SA()
     if not os.path.exists(topic_emotion_pic):
@@ -25,6 +25,6 @@ def sa_analysis_(key_word,sa_model):
     plt.show()
     plt.close()
     print('{} 情感极性图完成'.format(key_word))
-if __name__ == '__main__':
-    # 增加批处理提升预测速度
-    topic_sa_analysis()
+# if __name__ == '__main__':
+#     # 增加批处理提升预测速度
+#     topic_sa_analysis()
