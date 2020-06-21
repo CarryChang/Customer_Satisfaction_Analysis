@@ -35,7 +35,7 @@
 
 > 6.   数据模型对比
 
-<div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/模型对比1.png"></div>
+<div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/模型对比2.png"></div>
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/模型对比.png"></div>
 
 > 7.   代码结构如下
