@@ -33,11 +33,15 @@
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/poi可视化.png"></div>
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/poi打分.png"></div>
 
-> 6.   代码结构如下
+> 6.   数据模型对比
+
+<div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/模型对比1.png"></div>
+<div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/模型对比.png"></div>
+
+> 7.   代码结构如下
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/总的结构.png"></div>
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/结构1.png"></div>
-
 
 #####  新版本特性
 > 1. 使用字符级卷积神经网络增加了推理精度,情感二分类任务性能：acc:0.9241685779816514/auc:0.9232760870449649
