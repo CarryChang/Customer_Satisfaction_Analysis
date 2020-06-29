@@ -2,3 +2,4 @@ tensorflow==2.0.0
 numpy==1.17.0
 sklearn
 jieba
+litNlp
