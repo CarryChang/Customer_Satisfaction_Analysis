@@ -1,5 +1,8 @@
-tensorflow==2.0.0
-numpy==1.17.0
-sklearn
+tensorflow==2.0.1
+litNlp==0.8.4
+pyLDAvis==2.1.2
+scikit-learn==0.22.1
+numpy
+pandas
 jieba
-litNlp
+tqdm
