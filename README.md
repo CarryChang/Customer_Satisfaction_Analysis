@@ -3,7 +3,10 @@
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/情感分析图.png"></div>
 
-#### [视频演示demo](https://github.com/CarryChang/C-CNN-for-Chinese-Sentiment-Analysis/blob/master/video/demo.mp4)
+##### Demo 演示
+  - [视频演示demo](https://github.com/CarryChang/C-CNN-for-Chinese-Sentiment-Analysis/blob/master/video/demo.mp4)
+  - [详细步骤](https://www.lanqiao.cn/courses/2628)
+
 ##### 基于用户 UGC 的在线民宿满意度挖掘，负责数据采集、主题抽取、情感分析等任务。开发的目的是克服用户打分和评论不一致，实现了在线评论采集和用户满意度分析。
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/不一致.png"></div>
