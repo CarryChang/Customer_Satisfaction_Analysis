@@ -7,9 +7,6 @@
 out
 gen
 __pycache__/
-topic_text/*
-topic_emotion_pic/*
-model_saved/*
 model/__pycache__
 ### Python template
 # Byte-compiled / optimized / DLL files
