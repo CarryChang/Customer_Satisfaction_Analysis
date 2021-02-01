@@ -1,6 +1,8 @@
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
 #### Customer_satisfaction_Analysis 
 
+[![Stargazers over time](https://starchart.cc/CarryChang/Customer_Satisfaction_Analysis.svg)](https://starchart.cc/CarryChang/Customer_Satisfaction_Analysis)
+
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/情感分析图.png"></div>
 
 ##### Demo 演示
