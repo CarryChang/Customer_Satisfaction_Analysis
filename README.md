@@ -47,6 +47,10 @@
 
 <div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/结构1.png"></div>
 
+##### 专利信息
+<div align=center><img  src="https://github.com/CarryChang/Customer_Satisfaction_Analysis/blob/master/pic/ip.png"></div>
+
+
 #####  新版本特性
 > 1. 使用 litNLP 深度情感推理
 > 2. 增加多进程提高多个 topic 下的文本匹配速度
